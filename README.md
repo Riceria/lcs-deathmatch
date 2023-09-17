@@ -14,6 +14,8 @@ LCS Deathmatch is a text-based, team management simulation game created in Java 
     - The team with the most kills at the end of the match is the winner
 - View the league's overall standings
 
+https://github.com/Riceria/lcs-deathmatch/assets/49005248/efad8858-e189-4f53-ad82-9d69e1e20ae1
+
 ---
 
 [^1]: Professional players depicted in the game and their respective teams were accurate during January 2020
